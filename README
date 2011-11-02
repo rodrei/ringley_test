@@ -1,0 +1,9 @@
+Dependencies
+  activesupport (3.1.1)
+  rspec (2.7.0)
+
+To run the tests simply run 'rspec' from the command line without any arguments.
+The test runs the same exact exmple given in the instructions.
+
+This code is a simple demonstration, it's not ment to be used in real applications. 
+In a real application I would add error checks and validations.
